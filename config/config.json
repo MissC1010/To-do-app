@@ -1,0 +1,5 @@
+{
+  "port": "5000",
+  "secret": "$ecr3t123",
+  "mongoConnectionString": "mongodb+srv://MissC1010:Faceoff1@cluster0.3kkj31t.mongodb.net/ToDO"
+}
